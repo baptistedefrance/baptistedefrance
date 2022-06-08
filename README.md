@@ -1,16 +1,18 @@
-### Hi there 👋
+## <div align="center">Defrance Baptiste</div>  
+<br><br/> 
 
-<!--
-**baptistedefrance/baptistedefrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Developpeur Python débutant
+- Developpeur / Debbuger LUA débutant
+- Createur de serveurs FiveM
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+<p align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="Lua" height="50" />    
+<img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png" alt="Fivem" height="50" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+</p>
