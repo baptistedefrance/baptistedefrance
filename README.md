@@ -4,6 +4,9 @@
 - Developpeur Python débutant
 - Developpeur / Debbuger LUA débutant
 - Createur de serveurs FiveM
+- Maîtrise plugins Wordpress (WooCommerce, Elementor, Blocksy)
+- Installation et configuration de base de fichier FiveM sur Windows Server / Linux
+- Programmation Orienté Objet
 
 
 </br>
