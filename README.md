@@ -2,6 +2,7 @@
 <br><br/> 
 
 - Installation et configuration de NAS QNAP
+- Installation et configuration de Firewall STORMSHIELD
 - Developpeur / Debbuger LUA débutant
 - Createur de serveurs FiveM
 - Maîtrise plugins Wordpress (WooCommerce, Elementor, Blocksy)
