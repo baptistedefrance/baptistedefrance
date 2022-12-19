@@ -1,7 +1,7 @@
 ## <div align="center">Defrance Baptiste</div>  
 <br><br/> 
 
-- Developpeur Python débutant
+- Installation et configuration de NAS QNAP
 - Developpeur / Debbuger LUA débutant
 - Createur de serveurs FiveM
 - Maîtrise plugins Wordpress (WooCommerce, Elementor, Blocksy)
